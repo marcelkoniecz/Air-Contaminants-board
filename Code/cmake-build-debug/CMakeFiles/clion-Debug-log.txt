@@ -1,0 +1,22 @@
+"D:\Programy\Clion\CLion 2023.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "D:\Uczelnia\Semestr IX\Analog Peripherals of Digital System\project2\APDS" -B "D:\Uczelnia\Semestr IX\Analog Peripherals of Digital System\project2\APDS\cmake-build-debug"
+CMake Deprecation Warning:
+  Support for "Extra Generators" like
+
+    CodeBlocks
+
+  is deprecated and will be removed from a future version of CMake.  IDEs may
+  use the cmake-file-api(7) to view CMake-generated project build trees.
+
+
+-- The CXX compiler identification is GNU 10.3.1
+-- The ASM compiler identification is GNU
+-- Found assembler: D:/Programy/eabi/10 2021.10/bin/arm-none-eabi-gcc.exe
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/Programy/eabi/10 2021.10/bin/arm-none-eabi-g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Minimal optimization, debug info included
+-- Configuring done (1.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/Uczelnia/Semestr IX/Analog Peripherals of Digital System/project2/APDS/cmake-build-debug
