@@ -1,0 +1,6 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /tmp/tmp.FPrjYXWkGg -B /tmp/tmp.FPrjYXWkGg/cmake-build-debug-remote
+CMake Error at CMakeLists.txt:4 (cmake_minimum_required):
+  CMake 3.27 or higher is required.  You are running version 3.25.1
+
+
+-- Configuring incomplete, errors occurred!

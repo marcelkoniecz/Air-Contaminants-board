@@ -1,0 +1,3 @@
+D:/Uczelnia/Semestr IX/Analog Peripherals of Digital System/project2/APDS/cmake-build-debug-remote/CMakeFiles/APDS.elf.dir
+D:/Uczelnia/Semestr IX/Analog Peripherals of Digital System/project2/APDS/cmake-build-debug-remote/CMakeFiles/edit_cache.dir
+D:/Uczelnia/Semestr IX/Analog Peripherals of Digital System/project2/APDS/cmake-build-debug-remote/CMakeFiles/rebuild_cache.dir
