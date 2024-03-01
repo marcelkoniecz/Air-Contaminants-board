@@ -1,0 +1,5 @@
+meas.c:12:6:init_sensors	24	static
+meas.c:35:6:measure	16	static
+meas.c:60:6:calculate	16	static
+meas.c:79:8:read_sens_val	16	static
+meas.c:90:6:write_sens_raw	16	static
