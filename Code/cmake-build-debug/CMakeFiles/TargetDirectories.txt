@@ -1,3 +1,0 @@
-D:/Uczelnia/Semestr IX/Analog Peripherals of Digital System/project2/APDS/cmake-build-debug/CMakeFiles/APDS.elf.dir
-D:/Uczelnia/Semestr IX/Analog Peripherals of Digital System/project2/APDS/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Uczelnia/Semestr IX/Analog Peripherals of Digital System/project2/APDS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
