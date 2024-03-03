@@ -100,7 +100,6 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-//	  VREF
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
@@ -108,41 +107,6 @@ int main(void)
 	  HAL_Delay(10000);
 	  measure(TEMP);
 	  HAL_Delay(10000);
-	  measure(TEMP);
-	  HAL_Delay(10000);
-	  measure(GAS);
-	  HAL_Delay(1000);
-	  measure(GAS);
-	  HAL_Delay(1000);
-	  measure(GAS);
-	  HAL_Delay(1000);
-//	  ADC1->CHSELR = ADC_CHSELR_CHANNEL(ADC_CHANNEL_1);
-//	  HAL_ADC_Start(&hadc);
-//	  HAL_ADC_PollForConversion(&hadc, 10000);
-//	  val = HAL_ADC_GetValue(&hadc);
-//
-//
-//	  ADC1->CHSELR = ADC_CHSELR_CHANNEL(ADC_CHANNEL_2);
-//	  HAL_ADC_Start(&hadc);
-//	  HAL_ADC_PollForConversion(&hadc, 10000);
-//	  val = HAL_ADC_GetValue(&hadc);
-//
-//	  ADC1->CHSELR = ADC_CHSELR_CHANNEL(ADC_CHANNEL_17);
-//	  HAL_ADC_Start(&hadc);
-//	  HAL_ADC_PollForConversion(&hadc, 10000);
-//	  val = HAL_ADC_GetValue(&hadc);
-//
-//	  temp2 =(val/(float)4095)*(float)3.3 ;
-//	  temp = 0.063405922*(9960*3/(temp2)-9960)-102.41;
-////	  temp = 0.06499748*(val/4095f*3.3f)-102.349
-//	  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5,0);
-//	  HAL_Delay(100);
-//	  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5,1);
-////	 HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_3);
-//	 HAL_Delay(100);
-////	 ADC1->CFGR2 = TSV
-//	 ADC1->CHSELR = ADC_CHSELR_CHANNEL(ADC_CHANNEL_1);
-
   }
   /* USER CODE END 3 */
 }
